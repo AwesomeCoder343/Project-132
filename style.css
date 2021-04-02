@@ -1,0 +1,13 @@
+.image{
+    background:white;
+    border-radius: 15%;
+    color: black;
+    font-size: 25px;
+}
+.header{
+    width: 100%;
+    font-size: 35px;
+}
+body{
+    background-image: cover;
+}
